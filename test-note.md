@@ -1,1 +1,1 @@
-hello from obsidian cli
+hello from obsidian cli# Test note
