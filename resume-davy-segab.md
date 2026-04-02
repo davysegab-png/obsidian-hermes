@@ -5,7 +5,7 @@ Alberta, Canada (MST) | davysegab@email.com | linkedin.com/in/davysegab
 
 ## Summary
 
-AI enthusiast and self-taught developer building autonomous agent systems and AI-powered workflows. Passionate about leveraging large language models, automation tools, and cloud infrastructure to create scalable solutions. Eager to apply growing technical skills in an entry-level AI role while continuing to build real-world AI systems on the side.
+Curious and self-driven individual exploring the AI space. Currently learning how AI agents work by experimenting with different tools, APIs, and systems. Looking for an entry-level AI role (AI Trainer, Data Annotator, or similar) where I can contribute while continuing to develop real skills. Background in IT and network management from a previous career chapter.
 
 ---
 
@@ -16,45 +16,43 @@ Alberta, Canada
 
 ---
 
-## Projects & Hands-On Experience
+## Currently Exploring / Learning
 
-**AI Agent Business (Current)**
-*Building autonomous AI agents for productivity and business workflows*
+**AI Agent Systems**
+*Self-directed learning and experimentation*
 
-- Designed and deployed autonomous agent workflows using Claude (Anthropic), LLMs via API integration, and custom tooling
-- Set up and managed cloud infrastructure on VPS (Ubuntu) for running AI workloads
-- Integrated multiple AI APIs and services to create end-to-end automation pipelines
-- Built research and data extraction pipelines using web scraping, AI summarization, and structured output
-- Tools used: Terminal/Linux, API integrations, Claude, various AI SDKs, cron jobs, webhook systems
+- Experimenting with AI agent frameworks and tools (Claude, OpenAI APIs, autonomous agent systems)
+- Learning how to integrate APIs, set up automations, and connect AI tools together
+- Setting up personal infrastructure (VPS, Linux) to understand how AI systems run
+- Building small test projects to learn prompt engineering and AI workflow design
+- Tools explored: Terminal/Linux, various AI APIs, Obsidian, cron jobs, webhook systems
 
-**Personal AI Setup**
-- Running Hermes Agent (AI orchestration system) on dedicated VPS
-- Configured automated workflows: research agents, scheduled tasks, multi-platform notifications (Discord, Telegram)
-- Self-hosted and integrated AI tools including Obsidian vault for knowledge management
+**AI Learning Path**
+- Working through prompt engineering concepts and best practices
+- Studying how LLMs work at a practical level (API calls, parameters, output structure)
+- Following AI industry developments and keeping up with new tools and capabilities
 
 ---
 
-## Technical Skills
+## Technical Background
 
 | Category | Skills |
 |----------|--------|
-| **AI / ML** | Large Language Models, API Integration, Prompt Engineering, AI Agent Frameworks, Claude, ChatGPT |
-| **Infrastructure** | VPS (Ubuntu), Linux Administration, SSH, Cron, Webhooks, Cloud Server Management |
-| **Development** | Terminal/Command Line, Python (scripting), API Development and Integration, Git |
-| **Networking** | Network Management, TCP/IP, DNS, Firewall Configuration |
-| **Tools** | Tmux, Vim/Text Editors, Obsidian, VS Code, Browser Automation |
+| **IT Foundation** | Network management, TCP/IP, system administration (10 years ago) |
+| **Currently Learning** | AI APIs, terminal scripting, Linux server basics, API integrations |
+| **Basic** | Git, SSH, VPS setup, Markdown, command line |
 
 ---
 
 ## Key Strengths
 
-- **Fast learner** — picks up new tools and technologies independently; learned AI agent development by building real systems
-- **Self-directed** — manages own projects end-to-end from research to deployment without supervision
-- **Systems thinking** — understands how components connect (APIs, servers, automation pipelines)
-- **Problem solver** — comfortable debugging in terminal, reading docs, iterating independently
+- **Curious and persistent** — when something doesn't work, I figure out why
+- **Self-directed learner** — currently teaching myself AI development without formal structure
+- **Honest about what I don't know** — would rather admit knowledge gaps than fake expertise
+- **Practical mindset** — focused on building real understanding, not just collecting certifications
 
 ---
 
-## What I'm Building Toward
+## What I'm Looking For
 
-Seeking an entry-level AI role (AI Trainer, Data Annotator, Prompt Engineer, Junior AI Associate, or similar) where I can contribute to real AI products while continuing to grow. Currently building autonomous AI agent systems independently to develop practical skills in deployment, integration, and AI workflow design.
+An entry-level AI role where I can learn on the job and contribute genuinely. Interested in AI Trainer, Data Annotator, AI Rater, or similar positions. Not looking to fake experience — I want to build it.
