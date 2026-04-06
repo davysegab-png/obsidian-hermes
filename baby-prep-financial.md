@@ -43,62 +43,60 @@ tags: [baby-prep, financial, alberta, urgent]
 
 ## Critical Action Items — Do These Now
 
-### 1. You Already Filed 2025 Taxes ✓
-- CCB recalculates every July. Since you filed 2025 taxes, your CCB from July 2026 onward will be based on your 2025 income
-- As long as your 2025 income was under $37,487, you're getting MAX CCB
-- Just make sure you've applied for CCB (see below)
+### 1. CCB: Done ✓
+- Already applied
 
-### 2. Apply for CCB
-- After filing, apply here: canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html
-- Or apply through CRA My Account
-- Takes 6-8 weeks to process after applying
+### 2. Apply for EI Parental Benefits — Do This Now
+- federal government paid leave for parents — NOT your employer
+- Apply at: canada.ca/en/services/employment/insurance.html
+- Two options:
+  - **Standard**: 55% of insurable earnings, up to 40 weeks
+  - **Extended**: 33% of insurable earnings, up to 69 weeks
+- Use the SIN you have on file, income from your 2025 tax return
+- Takes ~2 weeks to process once applied
+- This is separate from CCB — different program, apply separately
 
-### 3. Build Your 3-Month Buffer
-You have 2 months before birth + ~3 month runway after. Here's the math:
-
-```
-Current income:     $3,500/mo
-After baby costs:   ~$4,500/mo (see estimate below)
-Monthly gap:        -$1,000/mo
-3-month buffer:     -$3,000 needed
-```
-
-Minimum savings target before birth: **$3,000**
+### 3. Paternal Holiday — Apply If You Haven't
+- If your employer offers paternal/parental leave top-up, make sure it's applied
+- Check with your manager or HR — some Alberta restaurants have informal arrangements
 
 ### 4. Baby Gear — You Already Have Most of This ✓
 - Toddler gear can be reused for the newborn
-- **Only urgent buy: car seat** (if the old one is expired or recalled — check expiry date on the label, usually 6 years from manufacture)
-- Everything else: diapers, wipes, formula — \~$100-150/mo
+- **Only urgent: check car seat expiry** — usually 6 years from manufacture date
+- Everything else: diapers, wipes — ~$100-150/mo
 
 ### 5. Health Costs (Alberta)
 - Alberta Health Care covers baby from birth
-- Register baby within 30 days of birth at a registry
+- Register baby within 30 days of birth at an Alberta registry office
 - No cost for basic medical
-- If using formula — \~$100-150/mo
-- Prescriptions: look into Coverage for Alberta Kids (formally Blue Cross) if you don't have benefits
 
 ---
 
 ## Monthly Budget After Baby
 
-| Item | Cost |
-|------|------|
-| Additional food (breastfeeding vs formula) | +$100-150/mo |
-| diapers + wipes | +$60-100/mo |
-| Clothing (babies grow fast) | +$30-50/mo |
-| Medical/OTC | +$20-50/mo |
-| **Total additional monthly** | **~$210-350/mo** |
+## Income Reality Check
 
-**Minus CCB (~$456/mo):** You could be NET POSITIVE on the monthly cost
+$3.5k/mo is tight with a newborn — not because of baby costs (CCB covers those) but because your hours are cut at work.
+
+**EI Parental Benefits** — this is real money sitting on the table. Apply. It's up to 55% of your insurable earnings for up to 40 weeks. That's potentially weeks of pay while you're home with the baby.
+
+**Your paternal holiday** — if it's not applied yet, push your manager today. Don't leave money on the table.
+
+**Income doubling ($10k/mo)** is the actual lever. Once you hit that:
+- Move out becomes real
+- Child care becomes affordable
+- Basement exit strategy executes cleanly
+
+The AI agent biz is the right play for this. That's the income solution.
 
 ---
 
-## Priorities — In Order
+## Priorities — Updated
 
-1. **Confirm CCB application is in** — apply at canada.ca if not already done
-2. **Check car seat expiry** — car seats expire, don't use if past date
-3. **No major savings needed** — gear is covered, benefits will offset monthly costs
-4. **Focus on income** — the runway issue is about YOUR income, not baby costs
+1. **Apply for EI Parental Benefits NOW** — federal leave, apply separately from CCB
+2. **Confirm paternal holiday is locked in** — talk to manager today
+3. **Check car seat expiry**
+4. **Build the AI agent biz** — this is how you double income
 
 ---
 
