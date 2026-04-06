@@ -14,8 +14,8 @@ tags: [baby-prep, financial, alberta, urgent]
 - Baby due ~June 2026 (2 months away)
 - Currently in parents' basement — low cost living
 - Income: ~$3.5k/mo
-- 3-4 month runway
-- No network, no savings buffer mentioned
+- Has an older toddler — hand-me-down gear already available
+- Has filed 2025 taxes already
 - Alberta, Canada
 
 ---
@@ -43,11 +43,10 @@ tags: [baby-prep, financial, alberta, urgent]
 
 ## Critical Action Items — Do These Now
 
-### 1. File Your 2024 Taxes IMMEDIATELY
-- This unlocks both CCB and ACFB
-- If you haven't filed, the government has NO WAY to send you money
-- Even if you owe, file — the CCB is worth more than any tax owed
-- Deadline is April 30 but you need this done NOW to start the process
+### 1. You Already Filed 2025 Taxes ✓
+- CCB recalculates every July. Since you filed 2025 taxes, your CCB from July 2026 onward will be based on your 2025 income
+- As long as your 2025 income was under $37,487, you're getting MAX CCB
+- Just make sure you've applied for CCB (see below)
 
 ### 2. Apply for CCB
 - After filing, apply here: canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html
@@ -66,22 +65,10 @@ Monthly gap:        -$1,000/mo
 
 Minimum savings target before birth: **$3,000**
 
-### 4. Baby Gear — Don't Overspend
-You don't need everything new. Priority list:
-
-**Must-have (~$800-1,200):**
-- Car seat (new — safety item, no compromises): $200-400
-- Crib/moses basket + mattress: $150-300
-- Stroller: $150-300
-- Baby clothes (0-3 months, 6-12 outfits): $50-100
-- Diapers + wipes (first month): $50-80
-- Bottles + formula samples: $50
-
-**Can wait / get used:**
-- Swing, bouncer, pack n play (gifts are your friend)
-- Most clothing — babies grow fast
-
-**One-time Alberta registry bonus:** Register at any Alberta registry office for the Newborn Bundle (some locations offer this — call around)
+### 4. Baby Gear — You Already Have Most of This ✓
+- Toddler gear can be reused for the newborn
+- **Only urgent buy: car seat** (if the old one is expired or recalled — check expiry date on the label, usually 6 years from manufacture)
+- Everything else: diapers, wipes, formula — \~$100-150/mo
 
 ### 5. Health Costs (Alberta)
 - Alberta Health Care covers baby from birth
@@ -102,27 +89,28 @@ You don't need everything new. Priority list:
 | Medical/OTC | +$20-50/mo |
 | **Total additional monthly** | **~$210-350/mo** |
 
+**Minus CCB (~$456/mo):** You could be NET POSITIVE on the monthly cost
+
 ---
 
 ## Priorities — In Order
 
-1. **File 2024 taxes today** — unlocks $456/mo CCB + ACFB
-2. **Apply for CCB immediately after filing**
-3. **Save $3,000 before birth** — your 3-month buffer floor
-4. **Gear budget: $1,000** — buy the car seat new, everything else used/sales OK
-5. **Look into job income** — your hours are cut at work, need to address this
+1. **Confirm CCB application is in** — apply at canada.ca if not already done
+2. **Check car seat expiry** — car seats expire, don't use if past date
+3. **No major savings needed** — gear is covered, benefits will offset monthly costs
+4. **Focus on income** — the runway issue is about YOUR income, not baby costs
 
 ---
 
 ## Income Reality Check
 
-$3.5k/mo with a newborn is tight. You need either:
-- More income (AI agent biz, a new job, or more hours somewhere)
-- Move out timeline delayed until $10k/mo hit
+$3.5k/mo is tight with a newborn not because of baby costs (which CCB largely covers) but because of your reduced hours at work. The real question is income, not baby expenses.
 
-At $10k/mo: you can afford $1,500-2,000/mo housing, child care, and still save.
+The AI agent biz ($10k/mo target) changes everything: $1,500-2,000/mo housing, child care, and still saving.
 
-**The baby doesn't require you to move out immediately.** Basement with parents for 6 more months while you scale income is a valid strategy. It might be the right call.
+**The basement situation is actually fine short-term.** Less stress on you = better for the baby and the biz build.
+
+Focus: get to $10k/mo income first. Baby costs are not the problem.
 
 ---
 
