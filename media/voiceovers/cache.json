@@ -1,0 +1,425 @@
+[
+  {
+    "input_text": "Baby Duck Goes UP. A story for a little one.",
+    "input_data": {
+      "input_text": "Baby Duck Goes UP. A story for a little one.",
+      "service": "gtts"
+    },
+    "original_audio": "baby-duck-goes-up-a-story-for-a-little-one-74f2cf8c.mp3",
+    "final_audio": "baby-duck-goes-up-a-story-for-a-little-one-74f2cf8c.mp3"
+  },
+  {
+    "input_text": "Baby Duck saw a big, tall hill.",
+    "input_data": {
+      "input_text": "Baby Duck saw a big, tall hill.",
+      "service": "gtts"
+    },
+    "original_audio": "baby-duck-saw-a-big-tall-hill-095ff719.mp3",
+    "final_audio": "baby-duck-saw-a-big-tall-hill-095ff719.mp3"
+  },
+  {
+    "input_text": "I can't go up that!",
+    "input_data": {
+      "input_text": "I can't go up that!",
+      "service": "gtts"
+    },
+    "original_audio": "i-can-t-go-up-that-d278822a.mp3",
+    "final_audio": "i-can-t-go-up-that-d278822a.mp3"
+  },
+  {
+    "input_text": "But TayTay Duck knew something.",
+    "input_data": {
+      "input_text": "But TayTay Duck knew something.",
+      "service": "gtts"
+    },
+    "original_audio": "but-taytay-duck-knew-something-2cfafc51.mp3",
+    "final_audio": "but-taytay-duck-knew-something-2cfafc51.mp3"
+  },
+  {
+    "input_text": "Yes you can.",
+    "input_data": {
+      "input_text": "Yes you can.",
+      "service": "gtts"
+    },
+    "original_audio": "yes-you-can-8d0d3a11.mp3",
+    "final_audio": "yes-you-can-8d0d3a11.mp3"
+  },
+  {
+    "input_text": "One step. Then another.",
+    "input_data": {
+      "input_text": "One step. Then another.",
+      "service": "gtts"
+    },
+    "original_audio": "one-step-then-another-e46b0951.mp3",
+    "final_audio": "one-step-then-another-e46b0951.mp3"
+  },
+  {
+    "input_text": "Then another.",
+    "input_data": {
+      "input_text": "Then another.",
+      "service": "gtts"
+    },
+    "original_audio": "then-another-f6391a5d.mp3",
+    "final_audio": "then-another-f6391a5d.mp3"
+  },
+  {
+    "input_text": "One step...",
+    "input_data": {
+      "input_text": "One step...",
+      "service": "gtts"
+    },
+    "original_audio": "one-step-e1853b20.mp3",
+    "final_audio": "one-step-e1853b20.mp3"
+  },
+  {
+    "input_text": "Then another...",
+    "input_data": {
+      "input_text": "Then another...",
+      "service": "gtts"
+    },
+    "original_audio": "then-another-9321a85c.mp3",
+    "final_audio": "then-another-9321a85c.mp3"
+  },
+  {
+    "input_text": "Keep going...",
+    "input_data": {
+      "input_text": "Keep going...",
+      "service": "gtts"
+    },
+    "original_audio": "keep-going-dbc64729.mp3",
+    "final_audio": "keep-going-dbc64729.mp3"
+  },
+  {
+    "input_text": "Almost there...",
+    "input_data": {
+      "input_text": "Almost there...",
+      "service": "gtts"
+    },
+    "original_audio": "almost-there-cfc4f721.mp3",
+    "final_audio": "almost-there-cfc4f721.mp3"
+  },
+  {
+    "input_text": "I did it!",
+    "input_data": {
+      "input_text": "I did it!",
+      "service": "gtts"
+    },
+    "original_audio": "i-did-it-acbb276b.mp3",
+    "final_audio": "i-did-it-acbb276b.mp3"
+  },
+  {
+    "input_text": "Yay Duck!",
+    "input_data": {
+      "input_text": "Yay Duck!",
+      "service": "gtts"
+    },
+    "original_audio": "yay-duck-45be4076.mp3",
+    "final_audio": "yay-duck-45be4076.mp3"
+  },
+  {
+    "input_text": "You did it, Baby Duck!",
+    "input_data": {
+      "input_text": "You did it, Baby Duck!",
+      "service": "gtts"
+    },
+    "original_audio": "you-did-it-baby-duck-af881c14.mp3",
+    "final_audio": "you-did-it-baby-duck-af881c14.mp3"
+  },
+  {
+    "input_text": "And Baby Duck laughed all the way down!",
+    "input_data": {
+      "input_text": "And Baby Duck laughed all the way down!",
+      "service": "gtts"
+    },
+    "original_audio": "and-baby-duck-laughed-all-the-way-down-3be66f57.mp3",
+    "final_audio": "and-baby-duck-laughed-all-the-way-down-3be66f57.mp3"
+  },
+  {
+    "input_text": "The End.",
+    "input_data": {
+      "input_text": "The End.",
+      "service": "gtts"
+    },
+    "original_audio": "the-end-2a8ffd8e.mp3",
+    "final_audio": "the-end-2a8ffd8e.mp3"
+  },
+  {
+    "input_text": "Splash Splash Splash. A Baby Duck Story.",
+    "input_data": {
+      "input_text": "Splash Splash Splash. A Baby Duck Story.",
+      "service": "gtts"
+    },
+    "original_audio": "splash-splash-splash-a-baby-duck-story-13e12754.mp3",
+    "final_audio": "splash-splash-splash-a-baby-duck-story-13e12754.mp3"
+  },
+  {
+    "input_text": "Baby Duck was SO hot today.",
+    "input_data": {
+      "input_text": "Baby Duck was SO hot today.",
+      "service": "gtts"
+    },
+    "original_audio": "baby-duck-was-so-hot-today-dd5a7613.mp3",
+    "final_audio": "baby-duck-was-so-hot-today-dd5a7613.mp3"
+  },
+  {
+    "input_text": "The sun was big. And bright.",
+    "input_data": {
+      "input_text": "The sun was big. And bright.",
+      "service": "gtts"
+    },
+    "original_audio": "the-sun-was-big-and-bright-06b15858.mp3",
+    "final_audio": "the-sun-was-big-and-bright-06b15858.mp3"
+  },
+  {
+    "input_text": "Baby Duck saw a little puddle.",
+    "input_data": {
+      "input_text": "Baby Duck saw a little puddle.",
+      "service": "gtts"
+    },
+    "original_audio": "baby-duck-saw-a-little-puddle-4e2dc572.mp3",
+    "final_audio": "baby-duck-saw-a-little-puddle-4e2dc572.mp3"
+  },
+  {
+    "input_text": "So Baby Duck jumped in!",
+    "input_data": {
+      "input_text": "So Baby Duck jumped in!",
+      "service": "gtts"
+    },
+    "original_audio": "so-baby-duck-jumped-in-1447b0d0.mp3",
+    "final_audio": "so-baby-duck-jumped-in-1447b0d0.mp3"
+  },
+  {
+    "input_text": "Splash",
+    "input_data": {
+      "input_text": "Splash",
+      "service": "gtts"
+    },
+    "original_audio": "splash-db8c562d.mp3",
+    "final_audio": "splash-db8c562d.mp3"
+  },
+  {
+    "input_text": "Splash",
+    "input_data": {
+      "input_text": "Splash",
+      "service": "gtts"
+    },
+    "original_audio": "splash-db8c562d.mp3",
+    "final_audio": "splash-db8c562d.mp3"
+  },
+  {
+    "input_text": "Splash",
+    "input_data": {
+      "input_text": "Splash",
+      "service": "gtts"
+    },
+    "original_audio": "splash-db8c562d.mp3",
+    "final_audio": "splash-db8c562d.mp3"
+  },
+  {
+    "input_text": "Splash",
+    "input_data": {
+      "input_text": "Splash",
+      "service": "gtts"
+    },
+    "original_audio": "splash-db8c562d.mp3",
+    "final_audio": "splash-db8c562d.mp3"
+  },
+  {
+    "input_text": "Splash",
+    "input_data": {
+      "input_text": "Splash",
+      "service": "gtts"
+    },
+    "original_audio": "splash-db8c562d.mp3",
+    "final_audio": "splash-db8c562d.mp3"
+  },
+  {
+    "input_text": "Splash",
+    "input_data": {
+      "input_text": "Splash",
+      "service": "gtts"
+    },
+    "original_audio": "splash-db8c562d.mp3",
+    "final_audio": "splash-db8c562d.mp3"
+  },
+  {
+    "input_text": "Splash",
+    "input_data": {
+      "input_text": "Splash",
+      "service": "gtts"
+    },
+    "original_audio": "splash-db8c562d.mp3",
+    "final_audio": "splash-db8c562d.mp3"
+  },
+  {
+    "input_text": "Splash",
+    "input_data": {
+      "input_text": "Splash",
+      "service": "gtts"
+    },
+    "original_audio": "splash-db8c562d.mp3",
+    "final_audio": "splash-db8c562d.mp3"
+  },
+  {
+    "input_text": "Splash splash splash!",
+    "input_data": {
+      "input_text": "Splash splash splash!",
+      "service": "gtts"
+    },
+    "original_audio": "splash-splash-splash-7256bcd6.mp3",
+    "final_audio": "splash-splash-splash-7256bcd6.mp3"
+  },
+  {
+    "input_text": "But TayTay Duck was in the BIG pond.",
+    "input_data": {
+      "input_text": "But TayTay Duck was in the BIG pond.",
+      "service": "gtts"
+    },
+    "original_audio": "but-taytay-duck-was-in-the-big-pond-c7bc5f42.mp3",
+    "final_audio": "but-taytay-duck-was-in-the-big-pond-c7bc5f42.mp3"
+  },
+  {
+    "input_text": "Come to the big pond!",
+    "input_data": {
+      "input_text": "Come to the big pond!",
+      "service": "gtts"
+    },
+    "original_audio": "come-to-the-big-pond-2fc7b726.mp3",
+    "final_audio": "come-to-the-big-pond-2fc7b726.mp3"
+  },
+  {
+    "input_text": "OK! Said Baby Duck.",
+    "input_data": {
+      "input_text": "OK! Said Baby Duck.",
+      "service": "gtts"
+    },
+    "original_audio": "ok-said-baby-duck-0ee7faf1.mp3",
+    "final_audio": "ok-said-baby-duck-0ee7faf1.mp3"
+  },
+  {
+    "input_text": "Waddle waddle waddle...",
+    "input_data": {
+      "input_text": "Waddle waddle waddle...",
+      "service": "gtts"
+    },
+    "original_audio": "waddle-waddle-waddle-7a17d7b6.mp3",
+    "final_audio": "waddle-waddle-waddle-7a17d7b6.mp3"
+  },
+  {
+    "input_text": "Waddle waddle waddle...",
+    "input_data": {
+      "input_text": "Waddle waddle waddle...",
+      "service": "gtts"
+    },
+    "original_audio": "waddle-waddle-waddle-7a17d7b6.mp3",
+    "final_audio": "waddle-waddle-waddle-7a17d7b6.mp3"
+  },
+  {
+    "input_text": "Waddle waddle waddle...",
+    "input_data": {
+      "input_text": "Waddle waddle waddle...",
+      "service": "gtts"
+    },
+    "original_audio": "waddle-waddle-waddle-7a17d7b6.mp3",
+    "final_audio": "waddle-waddle-waddle-7a17d7b6.mp3"
+  },
+  {
+    "input_text": "Waddle waddle waddle...",
+    "input_data": {
+      "input_text": "Waddle waddle waddle...",
+      "service": "gtts"
+    },
+    "original_audio": "waddle-waddle-waddle-7a17d7b6.mp3",
+    "final_audio": "waddle-waddle-waddle-7a17d7b6.mp3"
+  },
+  {
+    "input_text": "Waddle waddle waddle...",
+    "input_data": {
+      "input_text": "Waddle waddle waddle...",
+      "service": "gtts"
+    },
+    "original_audio": "waddle-waddle-waddle-7a17d7b6.mp3",
+    "final_audio": "waddle-waddle-waddle-7a17d7b6.mp3"
+  },
+  {
+    "input_text": "And jumped in!",
+    "input_data": {
+      "input_text": "And jumped in!",
+      "service": "gtts"
+    },
+    "original_audio": "and-jumped-in-181ade08.mp3",
+    "final_audio": "and-jumped-in-181ade08.mp3"
+  },
+  {
+    "input_text": "Splash!",
+    "input_data": {
+      "input_text": "Splash!",
+      "service": "gtts"
+    },
+    "original_audio": "splash-3dbd36d2.mp3",
+    "final_audio": "splash-3dbd36d2.mp3"
+  },
+  {
+    "input_text": "Splash!",
+    "input_data": {
+      "input_text": "Splash!",
+      "service": "gtts"
+    },
+    "original_audio": "splash-3dbd36d2.mp3",
+    "final_audio": "splash-3dbd36d2.mp3"
+  },
+  {
+    "input_text": "Splash!",
+    "input_data": {
+      "input_text": "Splash!",
+      "service": "gtts"
+    },
+    "original_audio": "splash-3dbd36d2.mp3",
+    "final_audio": "splash-3dbd36d2.mp3"
+  },
+  {
+    "input_text": "Splash!",
+    "input_data": {
+      "input_text": "Splash!",
+      "service": "gtts"
+    },
+    "original_audio": "splash-3dbd36d2.mp3",
+    "final_audio": "splash-3dbd36d2.mp3"
+  },
+  {
+    "input_text": "Splash splash splash splash SPLASH!",
+    "input_data": {
+      "input_text": "Splash splash splash splash SPLASH!",
+      "service": "gtts"
+    },
+    "original_audio": "splash-splash-splash-splash-splash-53b3a740.mp3",
+    "final_audio": "splash-splash-splash-splash-splash-53b3a740.mp3"
+  },
+  {
+    "input_text": "Two happy ducks in the big pond.",
+    "input_data": {
+      "input_text": "Two happy ducks in the big pond.",
+      "service": "gtts"
+    },
+    "original_audio": "two-happy-ducks-in-the-big-pond-e95746d5.mp3",
+    "final_audio": "two-happy-ducks-in-the-big-pond-e95746d5.mp3"
+  },
+  {
+    "input_text": "Wiggle wiggle wiggle.",
+    "input_data": {
+      "input_text": "Wiggle wiggle wiggle.",
+      "service": "gtts"
+    },
+    "original_audio": "wiggle-wiggle-wiggle-1d5dea45.mp3",
+    "final_audio": "wiggle-wiggle-wiggle-1d5dea45.mp3"
+  },
+  {
+    "input_text": "The End.",
+    "input_data": {
+      "input_text": "The End.",
+      "service": "gtts"
+    },
+    "original_audio": "the-end-2a8ffd8e.mp3",
+    "final_audio": "the-end-2a8ffd8e.mp3"
+  }
+]
